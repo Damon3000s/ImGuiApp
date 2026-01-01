@@ -2,7 +2,7 @@ MIT License
 
 https://github.com/Damon3000s/ImGuiApp
 
-Copyright (c) 2023-2025 Damon3000s
+Copyright (c) 2023-2026 Damon3000s
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
